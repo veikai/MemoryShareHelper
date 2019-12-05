@@ -1,1 +1,1 @@
-# NamedPiPeHelper
+# MemoryShareHelper
